@@ -2,7 +2,7 @@ const sqlite3 = require("sqlite3");
 const child_process = require("child_process");
 const WebSocket = require("ws");
 const fs = require("fs");
-const fetch = require("node-fetch");
+
 
 const DEFAULT_CONFIG = {
     targetUID: "17603188",
