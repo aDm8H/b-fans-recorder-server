@@ -10,7 +10,6 @@
     "license": "ISC",
     "dependencies": {
         "moment": "^2.29.4",
-        "open": "^9.1.0",
         "sqlite3": "^5.1.6",
         "ws": "^8.13.0"
     }
